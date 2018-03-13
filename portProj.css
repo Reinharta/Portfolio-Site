@@ -1,0 +1,124 @@
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: black;
+	background-color: rgb(209, 217, 219);
+    }
+.row {
+    padding-top: 25px;
+}
+.navbar-nav {
+	min-width: 360px;
+	float: left;
+	margin: 0;
+}
+.header {
+	background-color: rgb(209, 217, 219);
+}
+.navbar-nav>li {
+	float: left;
+}
+.nav>li:active {
+	background-color: rgb(114, 89, 69);
+}
+.navbar ul li a {
+}
+.navbar ul li a:hover {
+	background-color: rgb(158, 167, 162);
+	color: white;
+	border-color: white;
+}
+.nav-link {
+	color: black;
+}
+.btn-info {
+	background-color: rgb(158, 167, 162);
+	border-color: white;
+	color: white;
+}
+.btn-info:hover {
+	border-color: white;
+}
+#footer {
+    align-content: center;
+    color: black;
+}
+
+.carousel-caption {
+    color: black;
+}
+.carousel-item.active {
+    display: block;
+}
+.carousel-item-next {
+    display: block;
+}
+.carousel-item-prev {
+    display: block;
+}
+.form-group {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#form_message {
+    justify-content: center;
+    padding-top: 10px;
+}
+.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+img {width: 100%}
+.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+p {
+    margin: 25px;
+    text-align: left;
+}
+.pHome {
+    text-indent: 50px;
+    padding-left: 25%px;
+}
+.homeHead {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 50px;
+}
+.card {
+    margin-left: 100px;
+}
+.carouselHeader {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.recipeBody {
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+#carousel {
+    padding-bottom: 100px;
+}
+.tacoImage{
+  position: center;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-right: 50px;
+}
+.recipe {
+    padding-left: 50px;
+    padding-top: 65px;
+}
+.border {
+    color: black;
+    background-color: white;
+}
+.printbutton {
+    outline-color: black;
+    padding-left: 100px;
+}
